@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Plotly-Interactive%20Plots-0F62FE?style=for-the-badge&logo=plotly" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge" />
 </p>
 
 ---
