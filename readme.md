@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Plots-0F62FE?style=for-the-badge&logo=plotly" />
 </p>
 
 ---
@@ -30,6 +31,7 @@ In this series, you will learn important Data Science libraries step by step wit
 - **NumPy** – Used for numerical computing and working with arrays
 - **Pandas** – Used for data analysis, data cleaning, and data manipulation
 - **Matplotlib** – Used for creating graphs and basic data visualizations
+- **Plotly** – Used for interactive, web-ready and dashboard visualizations
 - **Seaborn** – Used for beautiful and statistical data visualizations
 
 ---
@@ -42,6 +44,7 @@ In this series, you will learn important Data Science libraries step by step wit
 - Data cleaning and preprocessing
 - Reading CSV and Excel files
 - Creating charts using Matplotlib
+- Creating interactive visualizations using Plotly
 - Creating advanced plots using Seaborn
 - Exploratory Data Analysis
 - Mini Data Science projects
@@ -65,6 +68,9 @@ Complete-Data-Science/
 │
 ├── Seaborn/
 │   └── Statistical and beautiful visualizations
+│
+├── Plotly/
+│   └── Interactive and web-ready visualizations
 │
 ├── Projects/
 │   └── Data Science mini projects
